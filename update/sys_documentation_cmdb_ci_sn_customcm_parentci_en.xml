@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sn_customcm_parentci" label="ParentCi" language="en" table="cmdb_ci">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sn_customcm_parentci</element>
+            <help/>
+            <hint/>
+            <label>ParentCi</label>
+            <language>en</language>
+            <name>cmdb_ci</name>
+            <plural>ParentCis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-11 17:22:59</sys_created_on>
+            <sys_id>a233aef8777033004d4eb5b26810612b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ParentCi</sys_name>
+            <sys_package display_value="CustomCM" source="sn_customcm">5ac2e2f8777033004d4eb5b268106146</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CustomCM">5ac2e2f8777033004d4eb5b268106146</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_sn_customcm_parentci_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-11 17:22:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
